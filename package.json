@@ -1,0 +1,22 @@
+{
+  "name": "bilerplate",
+  "version": "1.0.0",
+  "description": "\"boilerplate for SASS projects\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/YaroslavW/gulp4_sass_bilerplate.git"
+  },
+  "keywords": [
+    "\"sass\""
+  ],
+  "author": "Yaroslav (https://yaroslavw.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaroslavW/gulp4_sass_bilerplate/issues"
+  },
+  "homepage": "https://github.com/YaroslavW/gulp4_sass_bilerplate#readme"
+}
